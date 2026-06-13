@@ -5,3 +5,7 @@ dist/
 .superpowers/
 .npm-cache/
 apps/*/data/
+# Vercel
+.vercel
+*.env.local
+.env
